@@ -1,9 +1,9 @@
 # Prerequsities
-Orange ISP router - LiveBox, FunBox
+Orange ISP router - FunBox 3.0/6.0
 
 # Install
 
 ```cargo build --release```
 
 Copy binary file from target/ and files accounts.ini, log_path.txt.<br>
-Set created domains accounts in OVH panel inside accounts.ini file.
+Type in created domains accounts credentials from OVH panel into accounts.ini file.
