@@ -1,7 +1,7 @@
 # Prerequsities
 Orange ISP router - FunBox 3.0/6.0
 
-# Install
+# Installation
 
 ```cargo build --release```
 
